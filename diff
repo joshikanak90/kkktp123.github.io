@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to My GitHub Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f4f4f4;
+    }
+    h1 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello! 🎉</h1>
+  <p>This is a test page hosted on GitHub Pages.</p>
+  <p>Repo: <a href="https://github.com/kkktp123/kkktp123.github.io" target="_blank">kkktp123.github.io</a></p>
+</body>
+</html>
+
+"add index.html for github pages"
